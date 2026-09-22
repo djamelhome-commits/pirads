@@ -1,0 +1,4 @@
+# Outil interne du Centre d'Imagerie Médicale El Amane.
+# Retirez ces deux lignes si vous souhaitez que la page soit indexée.
+User-agent: *
+Disallow: /
